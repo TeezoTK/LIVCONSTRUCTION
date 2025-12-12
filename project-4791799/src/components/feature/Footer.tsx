@@ -99,6 +99,7 @@ export default function Footer() {
               <span className="text-accent">|</span>
               <p className="text-accent">Company No: 12345678</p>
             </div>
+        </div>
           </div>
         </div>
       </div>
