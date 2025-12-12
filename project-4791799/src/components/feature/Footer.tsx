@@ -95,10 +95,7 @@ export default function Footer() {
             <p className="text-accent text-sm">
               © 2025 LIV Construction LTD. All rights reserved.
             </p>
-            <div className="flex items-center space-x-6 text-sm">
-              <a href="https://readdy.ai/?origin=logo" target="_blank" rel="noopener noreferrer" className="text-accent hover:text-white transition-colors cursor-pointer">
-                Website Builder
-              </a>
+            <div className="flex items-center space-x-6 text-sm"></div>
               <span className="text-accent">|</span>
               <p className="text-accent">Company No: 12345678</p>
             </div>
